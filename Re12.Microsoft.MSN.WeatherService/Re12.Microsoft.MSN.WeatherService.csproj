@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="data.aspx" />
+    <Content Include="find.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,10 +82,18 @@
     <Compile Include="data.aspx.designer.cs">
       <DependentUpon>data.aspx</DependentUpon>
     </Compile>
+    <Compile Include="find.aspx.cs">
+      <DependentUpon>find.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="find.aspx.designer.cs">
+      <DependentUpon>find.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Keys.cs" />
     <Compile Include="Models\LocationInfo.cs" />
     <Compile Include="Models\SkyCondition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Country.cs" />
     <Compile Include="Utils\LocationMap.cs" />
     <Compile Include="Utils\SkyCode.cs" />
   </ItemGroup>

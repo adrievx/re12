@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": "WeatherScraper/1.0" # TODO: change later
+    "User-Agent": "Re12/1.0"
 }
 
 BASE_INDEX = "https://weather.codes"
@@ -78,13 +78,12 @@ def build_db(country_paths, out_file="locations.json", delay=0.1):
 
         if "france" in path:
             country_hint = "fr"
-            suffix = "FRA"
         elif "united-kingdom" in path:
             country_hint = "gb"
-            suffix = "GBR"
+        elif "hungary" in path:
+            country_hint = "gb"
         else:
             country_hint = None
-            suffix = None
 
         for idx, (code, display_name) in enumerate(codes, 1):
             lat, lon = geocode_city(display_name, country_hint)
@@ -92,22 +91,19 @@ def build_db(country_paths, out_file="locations.json", delay=0.1):
                 print(f"[{idx}/{len(codes)}] {code} -> {display_name} SKIPPED (no coord data)")
                 continue
 
-            name_with_suffix = (
-                f"{display_name}, {suffix}" if suffix else display_name
-            )
-
             db[code] = {
-                "name": name_with_suffix,
+                "name": display_name,
                 "lat": lat,
                 "lon": lon,
+                "country": (country_hint or "").upper()
             }
 
-            print(f"[{idx}/{len(codes)}] {code} -> {name_with_suffix} ({lat}, {lon})")
+            print(f"[{idx}/{len(codes)}] {code} -> {display_name} ({lat}, {lon})")
             time.sleep(delay)
 
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=2, ensure_ascii=False)
     print("Saved", out_file)
 
-paths = ["/france", "/united-kingdom"]
+paths = ["/france", "/united-kingdom", "/hungary"]
 build_db(paths, out_file="locations.json", delay=0.1)

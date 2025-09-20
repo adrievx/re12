@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Re12.Microsoft.MSN.WeatherService.Utils {
     public class SkyCode {
-        private static readonly Dictionary<int, SkyCondition> Conditions = new Dictionary<int, SkyCondition> {
+        private static readonly Dictionary<int, SkyCondition> Conditions = new Dictionary<int, SkyCondition> { // TODO: localize this
             { 0, new SkyCondition("32", "Clear") },
             { 1, new SkyCondition("30", "Mainly clear") },
             { 2, new SkyCondition("30", "Partly cloudy") },

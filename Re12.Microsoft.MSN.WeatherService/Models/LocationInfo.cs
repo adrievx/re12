@@ -14,5 +14,8 @@ namespace Re12.Microsoft.MSN.WeatherService.Models {
 
         [JsonProperty("lon")]
         public double Longitude { get; set; }
+
+        [JsonProperty("country")]
+        public string CountryCode { get; set; }
     }
 }

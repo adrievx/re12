@@ -1,0 +1,4 @@
+weather.service.msn.com
+www.weather.service.msn.com
+wst.s-msn.com
+blst.msn.com
