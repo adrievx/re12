@@ -1,0 +1,107 @@
+.survey.invite
+{
+  background: #004e83 url(/web/20080815003551im_/http://blst.msn.com/as/survey/I/repeat.gif) repeat-x;
+  color: #fff;
+  font-family: arial, tahoma, sans-serif;
+  height: 197px;
+  margin:0;
+  padding: 1px 1px 1px 0.35em;
+  position: relative;
+  width: 197px;
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  width: 189px;
+} 
+.survey.invite a.close
+{
+  background-color: #0769b0;
+  border: 1px solid #fff;
+  border-top: none;
+  border-right: none;
+  color: #fff;
+  font-size: 80%;
+  font-weight: bolder;
+  padding: 0.2em 0.35em;
+  position: absolute;
+  right: 0;
+  text-decoration: none;
+  top: 0;
+}
+.survey.invite a.close:hover
+{
+  background-color: #6caee8;
+  text-decoration: none;
+}
+.survey.invite a.continue
+{
+  background-color: #f1ac4d;
+  border-top: 1px solid #f1ac4d;
+  border-right: 2px solid #c08245;
+  border-bottom: 2px solid #c08245;
+  border-left: 1px solid #f1ac4d;
+  color: #004e83;
+  float: right;
+  font-size: 80%;
+  font-weight: bolder;
+  padding: 0.25em;
+  text-decoration: none;
+  margin-bottom: 0.5em;
+}
+
+.survey.invite a.continue:hover
+{
+  background-color: yellow;
+  text-decoration: none;
+}
+.survey.invite h4
+{
+  font-size: larger;
+  margin: 2.25em 2em 0 0;
+}
+.survey.invite img
+{
+  position:absolute;
+  bottom:4px;
+  left:2px;
+}
+.survey.invite p
+{
+  font-size: 80%;
+  font-weight: bolder;
+  margin-bottom: 1em;
+}
+/*Markets with long localizd strings should define <div class="survey invite small"> on survey invite page*/
+.survey.invite.small,
+.survey.invite.smaller,
+.survey.invite.smallest
+{
+	font-size:95%;
+}
+.survey.invite.smaller a.continue
+{
+	font-size:75%;
+}
+.survey.invite.smallest a.continue
+{
+	font-size:65%;
+}
+/*
+     FILE ARCHIVED ON 00:35:51 Aug 15, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:12:44 Sep 20, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.728
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.025
+  esindex: 0.012
+  cdx.remote: 22.873
+  LoadShardBlock: 332.487 (3)
+  PetaboxLoader3.datanode: 118.345 (4)
+  PetaboxLoader3.resolve: 294.295 (2)
+  load_resource: 201.206
+*/

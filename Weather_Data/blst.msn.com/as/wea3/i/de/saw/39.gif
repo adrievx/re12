@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=FC38Hc5A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.msn.com/","20150617133756","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1434548276");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+ <!-- data-info:v:2.0.5639.33322;a:207e9403-78e7-4e89-9bcd-1fa4257bfb42;cn:268;az:{did:1f802c514e1c42e385b028b15ac20ce4, rid: 268, sn: westus-hp, dt: 2015-06-16T16:31:19.9665811Z, bt: O};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:homepage,n:,l:en-us,ck:};xd:AA3iOMG;ovc:f;fxd:t;xdpub:2015-06-17 13:30:51Z;xdmap:2015-06-17 13:35:56Z;axd:;f:hp-all-hp-m-nfl,muidflt26cf,al-enus-ar-ct,ushpcombo10c,muidflt50cf,all-enus-prada,muidflt54cf,all-enus-nav-dd,muidflt58cf -->
+ 
+ <link rel="canonical" href="https://web.archive.org/web/20150617133756/http://www.msn.com/"/>
+ <link rel="alternate" hreflang="en-us" href="https://web.archive.org/web/20150617133756/http://www.msn.com/"/>
+
+ <title>MSN.com - Hotmail, Outlook, Skype, Bing, Latest News, Photos &amp; Videos</title>
+ <meta name="description" content="The new MSN, Your customizable collection of the best in news, sports, entertainment, money, weather, travel, health, and lifestyle, combined with Outlook, Facebook, Twitter, Skype, and more."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1"/>
+ <link rel="stylesheet" href="//web.archive.org/web/20150617133756cs_/http://static-hp-wus.s-msn.com/en-us/homepage/_sc/css/6670b51d-8b551b9/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/32-ab6e24-8ad87d35/d8-c95f8b-ccc89dda/79-69b61d-ca09ee4e/7d-dc78ae-74baf5b2/5a-cddf11-bdfd55f0/9e-63e6a6-2182c5e1/f4-f899ee-68ddb2ab/41-9b9901-1755cdb2/finance-css-32-8718ea1a272d95030b445096eb4e65-99dccfc1/finance-css-af-940252b8784144a81354027c853eea-8bc30b12?ver=2.0.5639.33322&amp;fdhead=hp-all-hp-m-nfl,muidflt26cf,al-enus-ar-ct,ushpcombo10c,muidflt50cf,all-enus-prada,muidflt54cf,all-enus-nav-dd,muidflt58cf&amp;csopd=20150610234507" media="all"/>
+
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n=="c.dom"&&(l=!0);s(n,i,r)}function s(n,t,i,r){var e,o,s,h;n&&u[n]||(e=k(n,t),e?(s=typeof i=="function",h=l&&s&&n!="dap"&&n!="adLoad"&&t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom"),h?setTimeout(function(){o=i.apply(null,e);a(n,o)},1):(o=s?i.apply(null,e):i,a(n,o))):f.push(r||{i:n,d:t,f:i}))}function a(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function k(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=b.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(d,w));break}f.push(a)}return c==f.length?f:0}function d(){e=0;v()}function g(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);nt(n.js);r&&s(t,i,r)}function nt(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!c[n]){c[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function tt(n){return p?n?r.now():Math.round(r.now()):new Date-h}var r=n.performance,h=((r||{}).timing||{}).navigationStart||(n._timing||{}).start||+new Date,p=r&&typeof r.now=="function",u={image:Image,document:document,location:document.location,window:n,screen:screen,navigator:navigator,date:Date,pageTime:tt,pageStart:h},f=[],i,w=50,e,c={},l=!1,b=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=g})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//web.archive.org/web/20150617133756js_/http://static-hp-wus.s-msn.com/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+  <script type="text/javascript" src="//web.archive.org/web/20150617133756js_/http://ads1.msads.net/library/8.4/dapmsn.js"></script>
+
+ <style>#main .makehomepage h2,#main .makehomepage a{padding-left:.15rem}#main .todaynavigation .supernav .makehomepage h2{padding-left:0}#main .todaynavigation .supernav .makehomepage a{padding-left:1.65rem}.spartan #main .paging-container.snap{overflow-x:hidden}#main .onenote .meflyout time,#main .office .meflyout time{display:none}.todaystripe .pick{height:27.2rem}.startpage.flthp-blue-rc #opensh a{color:#115b92}.flthp-blue-rc.startpage #opensh li:last-child a{color:#999}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}body:not(.startpage) #opensh{display:none!important}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.startpage.mobile.ie10plus .weatodaymini{padding-top:2rem}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+ <div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li class="current">
+<a href="/web/20150617133756/http://www.msn.com/en-us">Home</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/news">News</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/weather">Weather</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/entertainment">Entertainment</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/sports">Sports</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More &gt;</a>
+<ul>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/travel">Travel</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/autos">Autos</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/web/20150617133756/http://www.msn.com/en-us">
+ 
+
+<img alt="" height="20" width="20" src="//web.archive.org/web/20150617133756im_/http://static-hp-wus.s-msn.com/sc/6d/b23cf2.gif"/>
+</a>
+ <a class="vertical" href="/web/20150617133756/http://www.msn.com/en-us">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="https://web.archive.org/web/20150617133756/http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/web/20150617133756/http://www.msn.com/en-us/settings/markettoggle"><img alt="en-us" src="//web.archive.org/web/20150617133756im_/http://static-hp-wus.s-msn.com/sc/6a/a62410.gif"/></a>
+
+<a class="navigation" href="#nav">
+<img alt="go to navigation" width="27" height="20" src="//web.archive.org/web/20150617133756im_/http://static-hp-wus.s-msn.com/sc/57/a49b8d.gif"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://web.archive.org/web/20150617133756/http://www.bing.com/search?scope=web&amp;mkt=en-US" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value=""/>
+<input type="hidden" name="form" value="PRUSDL"/>
+ <input type="hidden" name="mkt" value="en-us"/>
+ <input type="hidden" name="refig" value="207e940378e74e899bcd1fa4257bfb42">
+<input type="submit" class="text" value="web search" title="web search"/>
+ <div id="sw_as"> </div>
+ </div>
+</form>
+ <script type="text/javascript">
+            //<![CDATA[
+            var srchInput = document.getElementById("q");
+            function sj_be(el, evt, mth) {
+                if (el.addEventListener) {
+                    el.addEventListener(evt, mth, false);
+                }
+                else if (el.attachEvent) {
+                    el.attachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = mth;
+                }
+            }
+
+            function sj_ue(el, evt, mth) {
+                if (el.removeEventListener) {
+                    el.removeEventListener(evt, mth, false);
+                }
+                else if (el.detachEvent) {
+                    el.detachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = null;
+                }
+            }
+
+            function loadScript(url, callback) {
+                var script = document.createElement("script")
+                script.type = "text/javascript";
+
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                }
+                else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+
+            function initAS() {
+                loadScript("https://web.archive.org/web/20150617133756/http://www.bing.com/s/as/1436447/en.js", function () {
+                    var config = { u: 'https://web.archive.org/web/20150617133756/http://api.bing.com/qsonhs.aspx?form=MSN005', tPN: 'Popular Now', f: 'srchfrm', i: 'q', r: 'AutoSugShared', o: 's+a+p+hs+', h: 1, k: 0, m: 8, d: 100, ol: 1, eHS: 1, spr: 0 };
+                    if (typeof window.sa_autosuggest != "undefined") {
+                        window["sa_inst"] = new window.sa_autosuggest(config);
+                        window["sa_inst"].init("sa_inst");
+                    }
+                });
+                sj_ue(srchInput, 'click', initAS);
+            }
+
+            if (srchInput) {
+                sj_be(srchInput, 'click', initAS);
+            }
+            //]]>
+        </script>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="https://web.archive.org/web/20150617133756/http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main" data-region="main">
+ 
+
+
+ <div class="today">
+
+
+ <div class="weatodaytile" data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule">
+<a href="/web/20150617133756/http://www.msn.com/en-us/weather/today/San-Francisco,California,United-States/we-city-37.765,-122.395?iso=US" data-loc="lat=37.76&amp;long=-122.39&amp;c=San%20Francisco&amp;st=California&amp;cn=United%20States&amp;iso=US&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="https://web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/BB8MIjP.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40" data-src="{&quot;default&quot;:&quot;http://img.s-msn.com/tenant/amp/entityid/BB8MIjP.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}" alt="Cloudy" title="Cloudy" data-icon="5"/>
+ <div><span class="currentcond">54&#176;</span><span class="tempunit">F</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">San Francisco, California</span>
+<span class="skytext">Today, Cloudy</span>
+<span class="tempavghigh">High 67&#176;</span>
+<span class="tempavglow">Low 51&#176;</span>
+</div>
+ </a>
+
+ <div class="edit" data-aop="change">
+<a class="edithome" href="#" data-degreetype="F" data-home="Search for Location / City" title="Change">Change</a>
+</div>
+<div class="weapopup" data-aop="editweatherflyout" data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close" role="button" href="#" title="Close">Close</a>
+ 
+
+<div class="weaaddlocation">
+
+<form action="/web/20150617133756/http://www.msn.com/en-us/weather/search" data-action="/en-us/weather/ajax/places/search/" method="get">
+<p>Set Default Location</p>
+<div class="add-loc-as-container">
+<input name="q" accesskey="L" autocomplete="off" type="search" value="" maxlength="250" data-auto-suggest-settings="{&quot;market&quot;:&quot;en-us&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-us/weather/today&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;dataset&quot;:&quot;w8weather&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:37.7648,&quot;lon&quot;:-122.3946}" placeholder="Search for Location / City" data-seemoretext="Press <Enter> to see more"/>
+<button title="Search" type="submit" class="searchbtn" value="search" role="button"></button>
+</div>
+<div class="nolocerr" data-message="No search results for '{0}'"></div>
+<div class="errmsg">An unexpected error occurred, please try again.</div>
+</form>
+</div>
+
+ 
+
+ <div>
+<p>Display Temperature In</p>
+<form class="setdegree" action="/web/20150617133756/http://www.msn.com/en-us/weather/ajax/places/savedegree/" method="get">
+<div>
+<button name="weaDegreeType" id="fahrenheit" value="F" class="selected">
+<div class="dot"></div>
+</button>
+<label for="fahrenheit">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="celsius" value="C" class="">
+<div class="dot"></div>
+</button>
+<label for="celsius">Celsius</label>
+</div>
+</form>
+</div>
+
+ <button class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+ </div>
+</div>
+ </div>
+ <div class="popularnow">
+ <h3><a href="https://web.archive.org/web/20150617133756/http://www.bing.com:80/?refig=207e940378e74e899bcd1fa4257bfb42">Popular Searches</a></h3>
+                        <ul>
+                            <li>    <a href="https://web.archive.org/web/20150617133756/http://www.bing.com:80/search?q=ravens+cheerleader+guilty&amp;form=prhps1&amp;refig=207e940378e74e899bcd1fa4257bfb42">
+
+Ex-cheerleader guilty    </a>
+</li>
+<li>    <a href="https://web.archive.org/web/20150617133756/http://www.bing.com:80/search?q=kate+hudson+bikini+greece&amp;form=prhps1&amp;refig=207e940378e74e899bcd1fa4257bfb42">
+
+Kate Hudson&#39;s teeny bikini    </a>
+</li>
+                        </ul>
+                        <ul>
+                            <li>    <a href="https://web.archive.org/web/20150617133756/http://www.bing.com:80/search?q=john+colenback&amp;form=PRHPS1&amp;refig=207e940378e74e899bcd1fa4257bfb42">
+
+Soap star dies    </a>
+</li>
+<li>    <a href="https://web.archive.org/web/20150617133756/http://www.bing.com:80/search?q=john+hurt&amp;form=prhps1&amp;refig=207e940378e74e899bcd1fa4257bfb42">
+
+Acting legend battles cancer    </a>
+</li>
+                        </ul>
+                    </div>
+ </div>
+ <div class="stripe first">
+<h2>Today</h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/news/featured/escaped-lion-from-flooded-georgia-zoo-kills-man/ar-AAbHoeJ">
+<img alt="new caption" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/AAbHlEa.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="AP Photo/Pavel Golovkin" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/featured/escaped-lion-from-flooded-georgia-zoo-kills-man/ar-AAbHoeJ">
+
+Lion that escaped from zoo kills man    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/music/news/donald-trumps-team-hit-back-at-neil-young/ar-AAbHtF4">
+
+Trump strikes back at Neil Young    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/world/bombs-found-at-boko-haram-camp-kill-63-in-nigeria/ar-AAbHrKr">
+
+Boko Haram bombs kill 63    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/nba/warriors-were-best-team-all-season-title-is-fitting/ar-AAbGWb2">
+
+Warriors vanquish 40-year championship drought    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/nba/iguodala%e2%80%99s-sacrifice-pays-off-with-mvp-award/ar-AAbGWdO">
+
+Iguodala’s sacrifice pays off with MVP award    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/news">News</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/news/photos/image-of-the-day/ss-BB1F1yA">
+<img alt="Jean Michel Saive of Belgium eyes the ball during his first round singles table tennis match at the 1st European Games in Baku, Azerbaijan, June 16 , 2015. REUTERS/Stoyan Nenov TPX IMAGES OF THE DAY" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/AAbHgXq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=606&amp;y=240" title="Stoyan Nenov/Reuters" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/photos/image-of-the-day/ss-BB1F1yA">
+
+Photo of the day: Top images from around the world    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/other/a-setback-activists-fret-about-rachel-dolezal-impact/ar-AAbGKxy">
+
+&#39;A setback&#39;: Activists fret about Rachel Dolezal impact    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/crime/state-police-to-expand-search-for-escaped-murderers-in-ny/ar-BBl95vK">
+
+State police to expand search for escaped murderers in NY    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/crime/state-breaking-bad-themed-lsd-tabs-found-in-secret-miami-drug-lab/ar-AAbGli0">
+
+Breaking Bad-themed LSD tabs found in secret Miami lab    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/news/us/unused-embryos-pose-difficult-issue-what-to-do-with-them/ar-AAbHiMS">
+
+What to Do With Unused Embryos    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/entertainment">Entertainment</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/entertainment/celebrity/celebs-react-to-donald-trump-running-for-president/ss-BBletD4">
+<img alt="On June 16, 2015 Donald Trump announced that he is going to run for President of the United States. &quot;We need somebody that can take the brand of the United States and make it great again,&quot; he told an audience of supporters. &quot;Ladies and gentlemen, I am officially running for President of the United States. We are going to make our country great again!&quot; Click through to see how the entertainment industry is reacting to the news ..." height="194" src="//web.archive.org/web/20150617133756im_/http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBlew6L.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1013&amp;y=582" title="JGA/ZOJ/WENN" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/entertainment/celebrity/celebs-react-to-donald-trump-running-for-president/ss-BBletD4">
+
+Celebs React to Donald Trump Running for President    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/entertainment/celebrity/celebs-without-makeup-instagram-edition-for-2015/ss-AA8rNuK">
+
+Cindy Crawford and daughter, more stars without makeup    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/movies/gallery/11-movies-that-shamelessly-ripped-off-jaws/ss-BBle9Q9">
+
+11 movies that shamelessly ripped off &#39;Jaws&#39;    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/tv/video/jenny-mccarthy-reveals-worst-view-moment/vi-BBldRE5">
+
+Jenny McCarthy Reveals Worst &#39;View&#39; Moment    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/entertainment/celebrity/celebrity-news-for-june-16-2015/ss-BBle4vO">
+
+Anna Faris is jealous of Chris Pratt&#39;s co-star, plus more celeb news    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/sports">Sports</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/sports/nba/steph-iggy-fuel-warriors-with-mvp-efforts/ar-AAbGWOE">
+<img alt="new caption" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/AAbGAgK.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1203&amp;y=657" title="Paul Sancya/AP Photo" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/nba/steph-iggy-fuel-warriors-with-mvp-efforts/ar-AAbGWOE">
+
+Steph, Iggy fuel Warriors with MVP efforts    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/mlb/fbi-investigation-of-cardinals-could-signal-a-new-level-of-cheating-in-sports/ar-BBleTPO">
+
+Is Cardinals saga sign of new level of cheating in sports?    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/golf/brian-schmitz-tigers-an-afterthought-at-open/ar-AAbGQtd">
+
+Tiger the afterthought    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/ncaafb/social-media-not-helping-jimbo-fisher-deal-with-personal-issue/ar-BBleLec">
+
+Social media not helping Jimbo Fisher deal with personal issue    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/sports/nfl/will-brady-be-exonerated/vi-AAbGvxP">
+
+Will Brady be exonerated?    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/money">Money</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/money/markets/who-wins-who-loses-when-fed-raises-rates/ar-BBleUAn">
+<img alt="Hundred dollar bills and Bar Graph. Aslan Alphan/Getty Images" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/BBiG7G4.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1244&amp;y=880" title="Aslan Alphan/Getty Images" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/markets/who-wins-who-loses-when-fed-raises-rates/ar-BBleUAn">
+
+Who Wins, Who Loses When Fed Raises Rates    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/markets/gold-is-surely-headed-to-dollar25000-but-maybe-not-until-next-century/ar-AAbGkMk">
+
+Gold is surely headed to $25,000, but when?    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/careersandeducation/the-most-selective-college-in-every-state/ss-BBkKlrU">
+
+The Most Selective College in Every State    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/markets/hedge-fund-bet-hits-pensions/ar-BBlf3dH">
+
+Hedge-Fund Bet Hits Pensions    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/personalfinance/how-to-manage-your-money-like-a-ceo/ar-AAabeCt">
+
+How to manage your money like a CEO    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle">Lifestyle</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/decor/5-room-makeovers-that-only-took-paint/ss-AAbbhGU">
+<img alt="<p>The retro kitchen certainly has its virtues but, for most homeowners, dated cabinets are not an asset. Luckily, all that's needed to bring this kitchen into the modern age is a <a href=&quot;http://www.bobvila.com/yellow-kitchen/47178-kitchen-paint-colors-10-handsome-hues-for-hardworking-spaces/slideshows&quot;>fresh coat of paint</a> and a little ingenuity.</p><br><p><strong>Related: <a href=&quot;http://www.bobvila.com/retro-colors/47808-10-design-essentials-for-the-perfect-retro-kitchen/slideshows&quot;>10 Design Essentials for the Perfect Retro Kitchen</a></strong></p>" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/AAbbhGF.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=348&amp;y=336" title="beautifulmatters.com" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/decor/5-room-makeovers-that-only-took-paint/ss-AAbbhGU">
+
+5 Room Makeovers That Only Took Paint    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/family/how-will-and-kate-are-keeping-royal-parenting-traditions-alive/ss-BBlbi6M">
+
+How Will and Kate Are Keeping Royal Parenting Traditions Alive    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/fashion/20-common-bikini-gripes-%e2%80%94-we-solved-em/ss-BBi9XMy">
+
+20 Common Bikini Gripes — We Solved &#39;Em    </a>
+
+</li>
+ <li>
+     <a href="https://web.archive.org/web/20150617133756/http://us.flipp.com/flyers/jcpenney-distribution?p=msnusprime&amp;locale=en&amp;flyer_run_id=66257&amp;page=1" target="_blank" data-pg="TSTPRMUS32" data-pid="7HD66FC">
+
+                <span class="nativead">Sponsored: </span>
+Our Biggest Dad&#39;s Day sale! - Provided by Flipp                <img class="nativead"/>
+    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/money-tips/10-ways-to-keep-cool-without-ac/ss-BBlddQh">
+
+10 Ways to Keep Cool Without AC    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/autos">Autos</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/autos/enthusiasts/1969-ford-mustang-long-lost-boss/ar-BBlbcIm">
+<img alt="1969 ford mustang boss 302 in a garage front driver side" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/BBlbeWm.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=384&amp;y=683" title="Provided by Hotrod" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/autos/enthusiasts/1969-ford-mustang-long-lost-boss/ar-BBlbcIm">
+
+Man discovers Mustang bought in 1976 is THE original Boss 302    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/autos/video/consumer-reports-2015-best-used-cars/vi-BBl43Dc">
+
+Consumer Reports 2015 Best Used Cars    </a>
+
+</li>
+ <li>
+     <a href="https://web.archive.org/web/20150617133756/http://www.msn.com/en-us/autos/honda/overview">
+
+See the latest from Honda on MSN Autos    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/autos/enthusiasts/2015-shelby-super-snake-puts-out-750plus-hp/ar-BBleeW8">
+
+2015 Shelby Super Snake Puts Out 750+ HP    </a>
+
+</li>
+ <li>
+     <a href="https://web.archive.org/web/20150617133756/http://www.msn.com/en-us/autos/">
+
+Amazing Cars of the GM Heritage Center    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/health">Health &amp; Fitness</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/health/medical/how-my-boyfriends-cheating-almost-killed-me/ar-BBlaS3s">
+<img alt="How My Boyfriend's Cheating Almost Killed Me" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/BBlaX9c.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=985&amp;y=466" title="Courtesy" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/medical/how-my-boyfriends-cheating-almost-killed-me/ar-BBlaS3s">
+
+How My Boyfriend&#39;s Cheating Almost Killed Me    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/medical/be-aware-your-tattoos-could-cause-false-positive-results-for-cancer/ar-BBleIuK">
+
+Be Aware: Your Tattoos Could Cause False-Positive Results for Cancer    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/weightloss/get-a-smokin-hot-bod-with-these-10-effective-calorie-blockers/ss-BBl6MNY">
+
+10 foods that fuel your fat-burning furnace    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/wellness/5-signs-your-hormones-are-out-of-whack/ar-AA6MEm3">
+
+5 Signs Your Hormones Are Out of Balance    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/wellness/this-shark-tank-product-might-save-you-a-trip-to-the-dentist/ar-BBl8qBr">
+
+This Shark Tank Product Might Save You A Trip To The Dentist    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink">Food &amp; Drink</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/foodnews/the-101-best-burgers-in-america/ss-BBkHxNd">
+<img alt="new caption" height="194" src="//web.archive.org/web/20150617133756im_/http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBle2R9.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=280&amp;y=309" title="Bachi Burger" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/foodnews/the-101-best-burgers-in-america/ss-BBkHxNd">
+
+The 101 Best Burgers in America    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/cookingschool/how-to-test-fish-for-doneness/vi-AAFJ7O">
+
+How to Test Fish for Doneness    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/foodnews/the-10-coolest-murals-youll-find-at-breweries/ss-BBlc2e8">
+
+The 10 Coolest Murals You&#39;ll Find at Breweries    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/recipes/make-these-5-delicious-and-easy-snacks-with-1-wedge-of-cheese/ss-BBlb149">
+
+Make These 5 Delicious and Easy Snacks With 1 Wedge of Cheese    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/foodnews/road-food-the-best-restaurants-on-wheels/ss-BBkThW8">
+
+Road Food: The Best Restaurants on Wheels    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/travel">Travel</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/travel/tripideas/12-things-not-to-do-in-new-orleans/ss-BBkY056">
+<img alt="new caption" height="194" src="//web.archive.org/web/20150617133756im_/http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBleE6k.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Mario Tama/Getty Images" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/travel/tripideas/12-things-not-to-do-in-new-orleans/ss-BBkY056">
+
+12 things you shouldn&#39;t do in New Orleans    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/travel/news/could-you-be-surfing-at-high-speed-in-the-skies/ar-BBl9unX">
+
+Could you be surfing at high-speed in the skies?    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/travel/news/this-business-near-yellowstone-caters-to-chinese-tourists-%e2%80%94-and-their-desire-to-shoot-big-guns/ar-BBldSpG">
+
+Catering to Chinese Yellowstone visitors — and their love of big guns    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/travel/news/carnival-will-stuff-over-7000-humans-into-its-new-cruise-ships/ar-BBlbcHf">
+
+Carnival will stuff over 7,000 humans into its new ships    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/travel/article/10-things-not-to-do-on-vacation-in-italy/ar-BBlaslQ">
+
+10 things not to do on vacation in Italy    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="https://web.archive.org/web/20150617133756/http://www.msn.com/en-us/news/photos/best-pictures-of-the-week-january-23-2015/ss-AA8tR67">Photos</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/money/careersandeducation/the-most-selective-college-in-every-state/ss-BBkKlrU">
+<img alt="<p>Chicago, IL</p><p><strong>Number of applications:</strong> 30,304<br><strong>Students offered admission: </strong>2,670</p><p><strong>Acceptance rate: </strong>8.8%</p>" height="194" src="//web.archive.org/web/20150617133756im_/http://img.s-msn.com/tenant/amp/entityid/BBkKsMU.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=410&amp;y=340" title="FindTheBest" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/careersandeducation/the-most-selective-college-in-every-state/ss-BBkKlrU">
+
+The most selective college in every state    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/health/weightloss/12-swimsuit-season-diet-secrets/ss-BBko89w">
+
+12 swimsuit season diet secrets    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink/foodnews/heres-what-people-eat-for-breakfast-around-the-world/ss-BBknb6G">
+
+What people eat for breakfast each morning around the world    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle/beauty/9-unusual-beauty-ingredients/ss-BBk0KYH">
+
+You put what on your face? Odd beauty goods    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/money/topstocks/the-12-original-dow-stocks-where-are-they-now/ss-BBkuTsv">
+
+The 12 original Dow stocks from 1896    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/web/20150617133756/http://www.msn.com/en-us/video">Video</a></h2>    <a href="/web/20150617133756/http://www.msn.com/en-us/video/animals/cute-octopus-may-be-new-species/vi-BBleIMc">
+<img alt="'Cute' octopus may be new species" height="194" src="//web.archive.org/web/20150617133756im_/http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBleLgq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="CNN" width="300"/>
+    </a>
+ <ul>
+ <li class="first">
+     <a href="/web/20150617133756/http://www.msn.com/en-us/video/animals/cute-octopus-may-be-new-species/vi-BBleIMc">
+
+&#39;Cute&#39; octopus may be new species    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/video/downtime/heartbreak-for-young-goalkeeper-after-penalty-mishap/vi-BBlarL2">
+
+Heartbreak for Young Goalkeeper After Penalty Mishap    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/video/animals/escaped-piglets-now-have-place-to-call-home/vi-BBleWi6">
+
+Escaped piglets now have place to call home    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/video/lifestyle/what-im-leaving-in-a-minute-really-means/vi-BBlbodb">
+
+What &quot;I&#39;m Leaving In A Minute&quot; Really Means    </a>
+
+</li>
+ <li>
+     <a href="/web/20150617133756/http://www.msn.com/en-us/video/news/scientists-have-discovered-glass-on-mars/vi-BBleWzZ">
+
+Scientists have discovered glass on Mars    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside" data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li class="current">
+<a href="/web/20150617133756/http://www.msn.com/en-us">Home</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/news">News</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/weather">Weather</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/entertainment">Entertainment</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/sports">Sports</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/money">Money</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/travel">Travel</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/autos">Autos</a>
+</li>
+ <li>
+<a href="/web/20150617133756/http://www.msn.com/en-us/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://web.archive.org/web/20150617133756/http://www.microsoft.com/en-us/default.aspx">&#169; 2015 Microsoft</a>
+ <a href="https://web.archive.org/web/20150617133756/http://go.microsoft.com/fwlink/?LinkId=248688">Privacy</a>
+ <a href="https://web.archive.org/web/20150617133756/http://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://web.archive.org/web/20150617133756/http://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://web.archive.org/web/20150617133756/https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://web.archive.org/web/20150617133756/http://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/web/20150617133756/http://www.msn.com/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="https://web.archive.org/web/20150617133756/http://newsletters.msn.com/">Newsletter</a>
+ <a href="https://web.archive.org/web/20150617133756/http://advertising.microsoft.com/en">Advertise</a>
+</div>
+</div>
+  <div>
+ <img src="//web.archive.org/web/20150617133756im_/http://c.msn.com/c.gif?udc=true&amp;rid=207e940378e74e899bcd1fa4257bfb42&amp;rnd=635701450763878613&amp;rf=http%3A%2F%2Fmsn.com%2F&amp;tp=http%253A%252F%252Fwww.msn.com%252F&amp;di=340&amp;lng=en-us&amp;cv.product=prime&amp;d.dg1=&amp;d.dg2=&amp;d.dg3=&amp;d.dg4=&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;d.b=Mozilla&amp;d.bv=0.0&amp;d.p=Unknown&amp;d.pv=Unknown%20Unknown" alt="image beacon" width="1" height="1"/><img src="https://web.archive.org/web/20150617133756im_/http://b.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=635701450763878613&amp;c7=http%253A%252F%252Fwww.msn.com%252F&amp;c8=&amp;c9=http%3A%2F%2Fmsn.com%2F" alt="image beacon" width="1" height="1"/><img src="//web.archive.org/web/20150617133756im_/http://otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=340&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252F&amp;pageid=startpage&amp;mkt=en-us&amp;pn=startpage&amp;mv=15&amp;pp=False&amp;cv.product=prime&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=635701450763878613&amp;rf=http%3A%2F%2Fmsn.com%2F&amp;rid=207e940378e74e899bcd1fa4257bfb42&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dg1=&amp;d.dg2=&amp;d.dg3=&amp;d.g4=&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;d.b=Mozilla&amp;d.bv=0.0&amp;d.p=Unknown&amp;d.pv=Unknown%20Unknown&amp;cv.parentId=&amp;isCorePV=" alt="image beacon" width="1" height="1"/>
+</div>
+
+ 
+ 
+ 
+</body>
+ <!--MSNAvailToken--></html><!--
+     FILE ARCHIVED ON 13:37:56 Jun 17, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:19:56 Sep 20, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.579
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.017
+  esindex: 0.01
+  cdx.remote: 27.053
+  LoadShardBlock: 1069.676 (6)
+  PetaboxLoader3.resolve: 503.256 (4)
+  PetaboxLoader3.datanode: 758.244 (7)
+  load_resource: 454.829
+-->

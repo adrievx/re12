@@ -1,0 +1,142 @@
+/*************************** 
+
+    Create Date: 2008-07-17
+    Edit Date: 2008-07-18 
+    Creator: Jeffrey Li
+    Editor: Jeffrey Li
+
+****************************/
+#wrapper
+{
+	width:783px !important;
+	/*background:transparent url('/web/20091228000039im_/http://blst.msn.com/br/intl/france/clonewars/images/CloneWars.jpg');*/
+}
+
+#head
+{
+	width:781px !important;
+	position:relative;
+}
+
+#page
+{
+	width:783px !important;
+	height:800px !important;   /*site navgation height is 21px*/
+	position:relative;
+	background:transparent url('/web/20091228000039im_/http://blst.msn.com/br/intl/france/clonewars/images/CloneWars.jpg') no-repeat left 21px;
+}
+
+#video_box
+{
+	border:none;
+}
+
+#inline_player
+{
+	position: relative;
+	top:48px;
+	left:365px;
+	/*fix the position bug by Jeffrey Lee*/
+	width:382px;
+	height:255px; /*239*/
+	overflow:hidden;
+}
+
+#inline_playerobj
+{
+	width:382px;
+	height:260px; /*239*/
+	position:relative;
+	top:-22px;
+}
+
+#synopsis_box
+{
+	border:none;
+	position:relative;
+	top:24px;
+	left:357px;
+	width:113px;
+	height:38px;
+	/*background:transparent url('/web/20091228000039im_/http://blst.msn.com/br/intl/france/clonewars/images/synopsis.jpg') no-repeat;*/
+	cursor:pointer;
+}
+#synopsis
+{
+	width:92px;
+	height:25px;
+}
+#galeriephotos_box
+{
+	border:none;
+	position:relative;
+	top:-26px;
+	left:469px;
+	width:186px;
+	height:38px;
+	/*background:transparent url('/web/20091228000039im_/http://blst.msn.com/br/intl/france/clonewars/images/galerie photos.jpg') no-repeat;*/
+	cursor:pointer;
+}
+#galeriephotos
+{
+	width:182px;
+	height:31px;
+}
+
+#extraits_box
+{
+	border:none;
+	/*position:relative;
+	top:-75px;
+	left:660px;
+	width:100px;
+	height:38px;
+	cursor:pointer;*/
+}
+#extraits
+{
+	border:none;
+	/*width:186px;
+	height:38px;*/
+}
+
+#bottom_link_box
+{
+	border:none;
+	position:relative;
+	top:316px;
+	left:210px;
+	width:340px;
+	height:30px;
+	cursor:pointer;
+}
+#bottom_link
+{
+	width:340px;
+	height:30px;
+}
+
+#big3 .last
+{
+	display:none;
+}
+/*
+     FILE ARCHIVED ON 00:00:39 Dec 28, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:53:59 Sep 20, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.84
+  exclusion.robots: 0.044
+  exclusion.robots.policy: 0.025
+  esindex: 0.017
+  cdx.remote: 9.993
+  LoadShardBlock: 138.52 (3)
+  PetaboxLoader3.datanode: 592.145 (4)
+  PetaboxLoader3.resolve: 121.391 (2)
+  load_resource: 581.895
+*/

@@ -1,0 +1,150 @@
+#wrapper
+{
+	width:998px !important;
+}
+#nav
+{
+	display:block;
+}
+#page
+{
+	width:998px !important;
+	height:1109px !important; /*site navgation height is 21px*/
+	position:relative;
+	background:transparent url('/web/20091228000052im_/http://blst.msn.com/br/intl/france/mammamia/images/MammaMia.jpg') no-repeat left 21px;
+}
+
+#flash_box
+{	
+	z-index:1;
+	border:none;
+	width:998px;
+	height:1088px;
+}
+
+#flash_player
+{
+	z-index:1;
+	top:-5px;
+	position:relative;
+}
+
+#flash_object
+{
+	z-index:1;
+	position:relative;
+}
+
+#video_box
+{
+	border:none;
+	top:-648px;
+	left:0px;
+	height:0px;
+	position:relative;
+}
+
+#video_content1
+{
+	top:0px;
+	left:0px;
+	width:0px;
+	height:0px;
+	position:relative;
+}
+
+.inlinevideo
+{
+	top:0px;
+	left:0px;
+	width:0px;
+	position:relative;
+}
+
+#inline_player
+{
+	position: relative;
+	top:1px;
+	left:293px;
+	width:424px;
+	height:286px;
+	overflow:hidden;
+}
+
+#inline_player_p
+{
+	position: relative;
+	top:1px;
+	left:2px;
+	width:424px;
+	height:287px;
+	color:White;
+}
+#inline_player_p a
+{
+	color:White;
+}
+
+#inline_playerobj
+{
+	z-index:99;
+	width:424px;
+	height:286px;
+	position:relative;
+	left: 500px;
+	top:800px;
+}
+
+#linkurl_box
+{
+	z-index:99;
+	border:none;
+	position:relative;
+	bottom:115px;
+	left:315px;
+	width:390px;
+	height:25px;
+	cursor:pointer;
+}
+#linkurl
+{
+	width:390px;
+	height:25px;
+}
+
+#buttonurl_box_1
+{
+	z-index:99;
+	border:none;
+	position:relative;
+	bottom:415px;
+	left:315px;
+	width:180px;
+	height:25px;
+	cursor:pointer;
+}
+#buttonurl_1
+{
+	width:180px;
+	height:25px;
+}
+/*
+     FILE ARCHIVED ON 00:00:52 Dec 28, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:54:26 Sep 20, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.62
+  exclusion.robots: 0.045
+  exclusion.robots.policy: 0.034
+  esindex: 0.011
+  cdx.remote: 4.935
+  LoadShardBlock: 185.435 (3)
+  PetaboxLoader3.datanode: 162.858 (4)
+  PetaboxLoader3.resolve: 90.791 (2)
+  load_resource: 84.204
+*/

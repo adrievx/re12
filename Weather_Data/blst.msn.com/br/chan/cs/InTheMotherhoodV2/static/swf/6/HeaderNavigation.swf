@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wayback Machine</title>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script>
+  addEventListener("DOMContentLoaded", () => {
+    const ruffle = RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+    player.config = {
+      "autoplay": "on",
+      "unmuteOverlay": "hidden",
+      "splashScreen": true,
+      "openUrlMode": "deny",
+      "polyfills": false,
+      "showSwfDownload": true
+    };
+    player.style.width = "100%";
+    player.style.height = "100%";
+    player.style.display = "block";
+    document.body.appendChild(player);
+    player.load("https://web.archive.org/web/20080907091659oe_/http://blst.msn.com/br/chan/cs/InTheMotherhoodV2/static/swf/6/HeaderNavigation.swf");
+  });
+</script>
+</head>
+<body style="margin:0;height:100vh;">
+</body>
+</html>
