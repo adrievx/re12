@@ -1,0 +1,5 @@
+local.msn.com
+blu.stc.s-msn.com
+blu.stj.s-msn.com
+media-social.s-msn.com
+img1.video.s-msn.com
