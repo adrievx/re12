@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="StockQuotes.aspx.cs" Inherits="Re12.Microsoft.MSN.MoneyService.StockQuotes" %>
